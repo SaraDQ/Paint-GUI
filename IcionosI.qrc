@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icionos/cepillo.png</file>
+        <file>Paint_en.qm</file>
+        <file>paint_es.qm</file>
+        <file>Paint_tu.qm</file>
+        <file>Icionos/ancho.png</file>
+        <file>Icionos/cerrar-sesion.png</file>
+        <file>Icionos/contorno-del-circulo.png</file>
+        <file>Icionos/grafico-de-lineas.png</file>
+        <file>Icionos/linea-diagonal.png</file>
+        <file>Icionos/marcador.png</file>
+        <file>Icionos/nuevo-documento.png</file>
+        <file>Icionos/rectangulo.png</file>
+        <file>Icionos/rgb.png</file>
+    </qresource>
+</RCC>
